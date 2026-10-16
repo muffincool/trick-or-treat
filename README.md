@@ -12,4 +12,6 @@ A spooky trick-or-treating game that runs entirely in the browser — one `index
 
 ## Play
 
-Open `index.html` in any modern browser, or play the hosted version on GitHub Pages.
+**▶ Play now: https://muffincool.github.io/trick-or-treat/**
+
+Or download `index.html` and open it in any modern browser.
